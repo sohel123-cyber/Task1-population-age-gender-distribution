@@ -1,0 +1,4 @@
+Field,Description,DataType
+Age,Age group of the population (18–30 years),Integer
+Gender,Gender category (Male/Female),String
+Population,Population count for that age-gender group,Integer
